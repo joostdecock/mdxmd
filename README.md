@@ -1,4 +1,4 @@
-# Minimap reproduction repo for a MDX loader problem with  `.md` files
+# Minimal reproduction repo for a MDX loader problem with  `.md` files
 
 So it seems that no matter what I do, I cannot get the MDX loader to treat
 `.md` files like MDX, instead merely loading them as Markdown.
